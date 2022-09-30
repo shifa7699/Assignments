@@ -23,8 +23,9 @@ public class Shapes {
 			
 	}
 	public static void main(String[] args) {
-		new Shapes().calculateShapeArea (1,4);
-		new Shapes().calculateShapeArea (3,5);
-		new Shapes().calculateShapeArea (4,6);
+		new Shapes().calculateShapeArea (5,15);
+		new Shapes().calculateShapeArea (3,12);
+		new Shapes().calculateShapeArea (4,15);
+		
 	}
 }
